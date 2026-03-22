@@ -34,7 +34,7 @@
 ### 1. Клонирование репозитория
 ```bash
 git clone https://github.com/denisnarubin/table.git
-cd table-task
+cd table
 ```
 
 ### 2. Установка зависимостей

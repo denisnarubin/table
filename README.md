@@ -33,7 +33,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/denisnarubin/table-test.git
+git clone https://github.com/denisnarubin/table.git
 cd table-task
 ```
 

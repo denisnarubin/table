@@ -104,4 +104,4 @@ table-task/
 - Удобное управление на сенсорных устройствах
 
 ## 🚀 Деплой на Vercel
-
+https://table-snowy-mu.vercel.app/
